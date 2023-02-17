@@ -1,0 +1,29 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "Lab 1 activity",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1LB4/Laboratorio-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S1LB4/Laboratorio-1/issues"
+  },
+  "homepage": "https://github.com/S1LB4/Laboratorio-1#readme",
+  "dependencies": {
+    "@ali-sanad/random-fruits": "^1.0.2",
+    "d": "^1.0.1",
+    "get-random-fruit": "^1.0.1",
+    "node-random-name": "^1.0.1",
+    "random-fruits-name": "^1.9.6"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
